@@ -26,7 +26,7 @@
 				<path>/${project.artifactId}##${project.version}</path>
 				<url>http://localhost:8080/manager/text</url>
 					<username>admin</username>
-					<password>adminadmin</password>
+					<password>*********</password>
 					<update>true</update>
 				</configuration>
 			</plugin>
