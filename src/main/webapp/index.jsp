@@ -7,7 +7,7 @@ String version=resource.getString("version");%>
 
 <html>
 <body>
-<h2>Hello Students</h2>
-<h1>Hurry Up!! Join the class for 20% off</h1>
+<h2>Hello Customers</h2>
+<h1>Hurry Up!! Sale is on</h1>
 </body>
 </html>
