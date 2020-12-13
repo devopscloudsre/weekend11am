@@ -8,6 +8,6 @@ String version=resource.getString("version");%>
 <html>
 <body>
 <h2>Hello Customers</h2>
-<h1>This is main branch</h1>
+<h1>This is feature Branch Testing</h1>
 </body>
 </html>
